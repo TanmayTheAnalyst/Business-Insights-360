@@ -5,4 +5,5 @@ AtliQ Hardware is growing rapidly in the recent years, and they have decided to 
 This project is hoped to give answers to the questions of stakeholder in terms all the aspects like finance, sales, marketing and supply chain.
 Also it also attempts to solve the executive level questions which can help top level management to make data informed decisions.
 
+I worked on this project by following the Codebasics PowerBi Course, Link to the course
 
