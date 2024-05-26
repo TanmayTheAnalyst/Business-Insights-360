@@ -35,6 +35,19 @@ I worked on this project by following the Codebasics PowerBi Course, Link to the
 - PowerBi App creation
 - Collaboration, workspace, access permissions in PowerBi services
 
+## Business terminologies learnt
+- Gross price - Gross price/sales refer to the overall sales done by the company.
+- Pre-invoice deductions - Pre-invoice deductions are the yearly discount agreements made at the beginning of each financial year.
+- Net Invoice sale - Net invoice sales is the amount which you get after deducting pre-invoice deductions from gross price.
+- Post-Invoice deductions - Post-invoice deductions are the basically discount usually given during festive seasons which can include promotional offers,placement fees,performance rebate, etc.
+- Net sales - Net Sales is the difference between Net invoice sales and post invoice deductions.
+- COGC - Cost Of Goods Sold are nothing but manufacturing cost, freight cost,other cost,etc combined together.
+- Gross Margin - Gross margin is the result obtained from deducting COGS from Net Sales.
+- Gross Margin % - When you divide Gross Margin * 100/Net Sales you get Gross Margin %.
+- Net profit - Net Profit is obtained by deducting other operational expenses from gross margin.
+- Net profit % - When you divide Net Profit * 100/Net Sales you get Gross Margin %.
+- YTD - Year to Date
+- YTG - Year to Go
 
 
 
