@@ -51,16 +51,15 @@ I worked on this project by following the Codebasics PowerBi Course, Link to the
 - YTD - Year to Date
 - YTG - Year to Go
 
-## About Company
-AltiQ hardware is a company which has grown vastly in the recent years, and opened business all over the globe. It is a company which sells, computer and computer accessories through three mediums/channel:-
+## Importing Data
+- After thoroughly reading and understanding data, the next step is to extract the data into PowerBi desktop. 
+- As in this case all data is in MySQL database and it can be accessed into PowerBi by suitable credentials.
 
-- Retailers
-- Direct
-- Distributors
-Recently the company has faced a unforeseen loss by opening store in America based on the surveys, intuition and some excel analysis and also the company’s competitors has handful of analytics team to perform analysis and make data driven decision. So, the AltiQ hardware has no other option other than building their analytics team for data driven insights and decisions in the future to survive better in the industry.
-
-Project kick off session, where you should get clear of for what and why this project and all other questions you have with regards to the project.
-
-
+## Data Modelling
+- The foremost and very important step is data modelling which is basically to create suitable relationship with the tables.
+- If data is not modelled properly then the it will cause errors during creating visualizations hence affecting the performance.
+- In this project I had followed Snowflake Data modelling.
+  
+![Data modelling](https://github.com/TanmayTheAnalyst/Business-Insights-360/assets/153390240/9ad9da73-02c9-4f83-926a-31244c7d83de)
 
 
