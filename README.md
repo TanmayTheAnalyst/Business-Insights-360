@@ -62,4 +62,34 @@ I worked on this project by following the Codebasics PowerBi Course, Link to the
   
 ![Data modelling](https://github.com/TanmayTheAnalyst/Business-Insights-360/assets/153390240/9ad9da73-02c9-4f83-926a-31244c7d83de)
 
+## Landing / Home Page
+
+In landing page all the views button will be available. User will land on specific view page by clicking the button
+
+- Info button
+- Finance View
+- Sales View
+- Marketing View
+- Supply Chain View
+- Executive View
+- Support
+
+![landing](https://github.com/TanmayTheAnalyst/Business-Insights-360/assets/153390240/44e2af12-f290-4018-97ef-94c0f2498bf4)
+
+## Finance View
+![Finance](https://github.com/TanmayTheAnalyst/Business-Insights-360/assets/153390240/48e2d3c1-9a73-41fe-856c-9edf80611b29)
+
+## Sales View 
+![sales](https://github.com/TanmayTheAnalyst/Business-Insights-360/assets/153390240/4e774430-e9d7-4da7-b76c-cd737eaed504)
+
+## Marketing View
+![Marketing](https://github.com/TanmayTheAnalyst/Business-Insights-360/assets/153390240/e8215fa6-7bee-4be4-827a-3c6b38ce1893)
+
+## Supply Chain View 
+![Supply chain](https://github.com/TanmayTheAnalyst/Business-Insights-360/assets/153390240/afe36ccc-a41e-4ac9-91af-34671804751c)
+
+## Executive View 
+![Executive](https://github.com/TanmayTheAnalyst/Business-Insights-360/assets/153390240/f4c24cae-310f-4d85-a834-b3259acbecc5)
+
+
 
